@@ -31,3 +31,11 @@ section#telefone {
     width: 300px;
     background: url('../imagens/frame-iphonec.png');
 }
+
+iframe {
+    position: relative;
+    top: 78px;
+    left: 22px;
+    width: 256px;
+    height: 452px;
+}
